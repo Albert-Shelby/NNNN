@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - New tag
+  - "\u969C\u7919\u7269-0"
+  - "\u904E\u95DC"
+  - "\u969C\u7919\u7269"
   layers:
   - Default
   - TransparentFX

@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2398860536944982093}
   m_Layer: 0
   m_Name: "\u969C\u7919\u7269_0"
-  m_TagString: Untagged
+  m_TagString: "\u969C\u7919\u7269-0"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27,9 +27,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 628031460421080358}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.0000027334027, y: 0.010388364, z: -0.99994606, w: 0.0002630856}
-  m_LocalPosition: {x: 8.5, y: -1.42, z: 0.02}
-  m_LocalScale: {x: 8.844455, y: -8.530418, z: 1}
+  m_LocalRotation: {x: -0.0000059864105, y: 0.01038452, z: -0.99994606, w: 0.00026186308}
+  m_LocalPosition: {x: -14.408795, y: 0, z: 0}
+  m_LocalScale: {x: 7.8326497, y: -6.930112, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
